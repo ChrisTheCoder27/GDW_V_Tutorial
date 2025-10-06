@@ -24,10 +24,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WaterExtras",
-			"Enabled": true
-		},
-		{
 			"Name": "WaterAdvanced",
 			"Enabled": true
 		}
